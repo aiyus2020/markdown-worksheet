@@ -207,11 +207,11 @@ Ex 'Header Info' becomes header-info
 
 Defining an image is similar to defining a link, except you prefix it with '!'
 
-<!-- 
+
     Example
 
-    ![James Quick](https://pbs.twimg.com/profile_images/887455546890211329/tAoS7KUm_400x400.jpg) 
--->
+    [James Quick](./screenshot.png)
+
 
 Just like links, you can define images by reference in the same format.
 
